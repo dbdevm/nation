@@ -1,0 +1,20 @@
+{
+    "name": "dbdevm/nation",
+    "description": "This is get country and phone number prefix codes.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dbdevm\\Nation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "doublem",
+            "email": "lmmdev@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^5.4"
+    }
+}
